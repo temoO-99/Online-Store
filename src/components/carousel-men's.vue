@@ -15,6 +15,7 @@
             class="card-img-top"
             src="../assets/productspage/kid-01.jpg"
             alt="Card image cap"
+            loading="lazy"
           />
         </div>
         <div class="card">
@@ -22,6 +23,7 @@
             class="card-img-top"
             src="../assets/productspage/kid-02.jpg"
             alt="Card image cap"
+            loading="lazy"
           />
         </div>
         <div class="card">
@@ -29,6 +31,7 @@
             class="card-img-top"
             src="../assets/productspage/kid-03.jpg"
             alt="Card image cap"
+            loading="lazy"
           />
         </div>
       </div>
@@ -42,6 +45,7 @@
             class="card-img-top"
             src="../assets/productspage/men-01.jpg"
             alt="Card image cap"
+            loading="lazy"
           />
         </div>
         <div class="card">
@@ -49,6 +53,7 @@
             class="card-img-top"
             src="../assets/productspage/men-02.jpg"
             alt="Card image cap"
+            loading="lazy"
           />
         </div>
         <div class="card">
@@ -56,6 +61,7 @@
             class="card-img-top"
             src="../assets/productspage/men-03.jpg"
             alt="Card image cap"
+            loading="lazy"
           />
         </div>
       </div>
@@ -69,6 +75,7 @@
             class="card-img-top"
             src="../assets/productspage/women-01.jpg"
             alt="Card image cap"
+            loading="lazy"
           />
         </div>
         <div class="card">
@@ -76,6 +83,7 @@
             class="card-img-top"
             src="../assets/productspage/women-02.jpg"
             alt="Card image cap"
+            loading="lazy"
           />
         </div>
         <div class="card">
@@ -83,6 +91,7 @@
             class="card-img-top"
             src="../assets/productspage/women-03.jpg"
             alt="Card image cap"
+            loading="lazy"
           />
         </div>
       </div>

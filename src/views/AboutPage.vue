@@ -16,7 +16,11 @@
         <div class="row">
           <div class="col-md-6">
             <div class="img">
-              <img src="../assets/aboutpage/skill.jpg" alt="Not Found" />
+              <img
+                src="../assets/aboutpage/skill.jpg"
+                alt="Not Found"
+                loading="lazy"
+              />
             </div>
           </div>
           <div class="col-md-6">
@@ -62,6 +66,7 @@
               <img
                 src="../assets/aboutpage/team-member-01.jpg"
                 alt="Not Found"
+                loading="lazy"
               />
               <div class="over">
                 <div class="icon">
@@ -82,6 +87,7 @@
               <img
                 src="../assets/aboutpage/team-member-02.jpg"
                 alt="Not Found"
+                loading="lazy"
               />
               <div class="over">
                 <div class="icon">
@@ -102,6 +108,7 @@
               <img
                 src="../assets/aboutpage/team-member-03.jpg"
                 alt="Not Found"
+                loading="lazy"
               />
               <div class="over">
                 <div class="icon">
@@ -137,7 +144,11 @@
                 recusandae incidunt.
               </p>
 
-              <img src="../assets/aboutpage/service-01.jpg" alt="" />
+              <img
+                src="../assets/aboutpage/service-01.jpg"
+                alt=""
+                loading="lazy"
+              />
             </div>
           </div>
           <div class="col-md-4">
@@ -150,7 +161,11 @@
                 recusandae incidunt.
               </p>
 
-              <img src="../assets/aboutpage/service-02.jpg" alt="" />
+              <img
+                src="../assets/aboutpage/service-02.jpg"
+                alt=""
+                loading="lazy"
+              />
             </div>
           </div>
           <div class="col-md-4">
@@ -163,7 +178,11 @@
                 recusandae incidunt.
               </p>
 
-              <img src="../assets/aboutpage/service-03.jpg" alt="" />
+              <img
+                src="../assets/aboutpage/service-03.jpg"
+                alt=""
+                loading="lazy"
+              />
             </div>
           </div>
         </div>

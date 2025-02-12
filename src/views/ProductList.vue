@@ -16,7 +16,11 @@
         <div class="row">
           <div class="col-md-4">
             <div class="box">
-              <img src="../assets/productspage/men-01.jpg" alt="" />
+              <img
+                src="../assets/productspage/men-01.jpg"
+                alt=""
+                loading="lazy"
+              />
               <div class="rate">
                 <h2>Classic Spring</h2>
                 <div class="icon">
@@ -32,7 +36,11 @@
           </div>
           <div class="col-md-4">
             <div class="box">
-              <img src="../assets/productspage/men-02.jpg" alt="" />
+              <img
+                src="../assets/productspage/men-02.jpg"
+                alt=""
+                loading="lazy"
+              />
               <div class="rate">
                 <h2>Classic Spring</h2>
                 <div class="icon">
@@ -48,7 +56,11 @@
           </div>
           <div class="col-md-4">
             <div class="box">
-              <img src="../assets/productspage/men-03.jpg" alt="" />
+              <img
+                src="../assets/productspage/men-03.jpg"
+                alt=""
+                loading="lazy"
+              />
               <div class="rate">
                 <h2>Classic Spring</h2>
                 <div class="icon">
@@ -66,7 +78,11 @@
         <div class="row">
           <div class="col-md-4">
             <div class="box">
-              <img src="../assets/productspage/women-01.jpg" alt="" />
+              <img
+                src="../assets/productspage/women-01.jpg"
+                alt=""
+                loading="lazy"
+              />
               <div class="rate">
                 <h2>Classic Spring</h2>
                 <div class="icon">
@@ -82,7 +98,11 @@
           </div>
           <div class="col-md-4">
             <div class="box">
-              <img src="../assets/productspage/women-02.jpg" alt="" />
+              <img
+                src="../assets/productspage/women-02.jpg"
+                alt=""
+                loading="lazy"
+              />
               <div class="rate">
                 <h2>Classic Spring</h2>
                 <div class="icon">
@@ -98,7 +118,11 @@
           </div>
           <div class="col-md-4">
             <div class="box">
-              <img src="../assets/productspage/women-03.jpg" alt="" />
+              <img
+                src="../assets/productspage/women-03.jpg"
+                alt=""
+                loading="lazy"
+              />
               <div class="rate">
                 <h2>Classic Spring</h2>
                 <div class="icon">
@@ -115,7 +139,11 @@
         <div class="row">
           <div class="col-md-4">
             <div class="box">
-              <img src="../assets/productspage/kid-01.jpg" alt="" />
+              <img
+                src="../assets/productspage/kid-01.jpg"
+                alt=""
+                loading="lazy"
+              />
               <div class="rate">
                 <h2>Classic Spring</h2>
                 <div class="icon">
@@ -131,7 +159,11 @@
           </div>
           <div class="col-md-4">
             <div class="box">
-              <img src="../assets/productspage/kid-02.jpg" alt="" />
+              <img
+                src="../assets/productspage/kid-02.jpg"
+                alt=""
+                loading="lazy"
+              />
               <div class="rate">
                 <h2>Classic Spring</h2>
                 <div class="icon">
@@ -147,7 +179,11 @@
           </div>
           <div class="col-md-4">
             <div class="box">
-              <img src="../assets/productspage/kid-03.jpg" alt="" />
+              <img
+                src="../assets/productspage/kid-03.jpg"
+                alt=""
+                loading="lazy"
+              />
               <div class="rate">
                 <h2>Classic Spring</h2>
                 <div class="icon">

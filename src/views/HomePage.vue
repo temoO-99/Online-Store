@@ -6,7 +6,11 @@
         <div class="col-md-6 left">
           <div class="img-block">
             <div class="overlay"></div>
-            <img alt="notFound" src="../assets/homepage/head-shope.jpg" />
+            <img
+              alt="notFound"
+              src="../assets/homepage/head-shope.jpg"
+              loading="lazy"
+            />
             <div class="above">
               <h1>we are PiKe Groub</h1>
               <p class="prgraph">Awesome, clean & creative</p>
@@ -22,7 +26,11 @@
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
                 <button>Discover More</button>
               </div>
-              <img alt="notFound" src="../assets/homepage/head-2.jpg" />
+              <img
+                alt="notFound"
+                src="../assets/homepage/head-2.jpg"
+                loading="lazy"
+              />
               <div class="above">
                 <h1>Men</h1>
                 <p class="prgraph">Best clothes for men</p>
@@ -34,7 +42,11 @@
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
                 <button>Discover More</button>
               </div>
-              <img alt="notFound" src="../assets/homepage/head-women.jpg" />
+              <img
+                alt="notFound"
+                src="../assets/homepage/head-women.jpg"
+                loading="lazy"
+              />
               <div class="above">
                 <h1>Women</h1>
                 <p class="prgraph">Best clothes for women</p>
@@ -48,7 +60,11 @@
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
                 <button>Discover More</button>
               </div>
-              <img alt="notFound" src="../assets/homepage/head-kide.jpg" />
+              <img
+                alt="notFound"
+                src="../assets/homepage/head-kide.jpg"
+                loading="lazy"
+              />
               <div class="above">
                 <h1>kids</h1>
                 <p class="prgraph">Best clothes for Kids</p>
@@ -60,7 +76,11 @@
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
                 <button>Discover More</button>
               </div>
-              <img alt="notFound" src="../assets/homepage/head-accss.jpg" />
+              <img
+                alt="notFound"
+                src="../assets/homepage/head-accss.jpg"
+                loading="lazy"
+              />
               <div class="above">
                 <h1>Accessories</h1>
                 <p class="prgraph">Best trend accessories</p>
@@ -119,7 +139,7 @@
               <p>Over 304 Products</p>
             </div>
             <div class="img">
-              <img src="../assets/explore-image-01.jpg" alt="" />
+              <img src="../assets/explore-image-01.jpg" alt="" loading="lazy" />
             </div>
           </div>
           <div class="bottom">
@@ -128,7 +148,7 @@
               <p>Lates Collection</p>
             </div>
             <div class="img">
-              <img src="../assets/explore-image-02.jpg" alt="" />
+              <img src="../assets/explore-image-02.jpg" alt="" loading="lazy" />
             </div>
           </div>
         </div>
@@ -148,42 +168,42 @@
             <span>Fashion</span>
             <i class="fa-brands fa-instagram"></i>
           </div>
-          <img src="../assets/social/instagram-01.jpg" alt="" />
+          <img src="../assets/social/instagram-01.jpg" alt="" loading="lazy" />
         </div>
         <div class="photo two">
           <div class="over">
             <span>New</span>
             <i class="fa-brands fa-instagram"></i>
           </div>
-          <img src="../assets/social/instagram-02.jpg" alt="" />
+          <img src="../assets/social/instagram-02.jpg" alt="" loading="lazy" />
         </div>
         <div class="photo three">
           <div class="over">
             <span>Brand</span>
             <i class="fa-brands fa-instagram"></i>
           </div>
-          <img src="../assets/social/instagram-03.jpg" alt="" />
+          <img src="../assets/social/instagram-03.jpg" alt="" loading="lazy" />
         </div>
         <div class="photo four">
           <div class="over">
             <span>Makeup</span>
             <i class="fa-brands fa-instagram"></i>
           </div>
-          <img src="../assets/social/instagram-04.jpg" alt="" />
+          <img src="../assets/social/instagram-04.jpg" alt="" loading="lazy" />
         </div>
         <div class="photo five">
           <div class="over">
             <span>Lather</span>
             <i class="fa-brands fa-instagram"></i>
           </div>
-          <img src="../assets/social/instagram-05.jpg" alt="" />
+          <img src="../assets/social/instagram-05.jpg" alt="" loading="lazy" />
         </div>
         <div class="photo sex">
           <div class="over">
             <span>Bag</span>
             <i class="fa-brands fa-instagram"></i>
           </div>
-          <img src="../assets/social/instagram-06.jpg" alt="" />
+          <img src="../assets/social/instagram-06.jpg" alt="" loading="lazy" />
         </div>
       </div>
     </div>
